@@ -154,12 +154,19 @@ pow(1, 100) = 1 * 1 * ...* 1 = 1
 Создайте страницу, которая запрашивает x и n, а затем выводит результат pow(x,n).
 <br>
 23. 7 kyu https://www.codewars.com/kata/highest-and-lowest
+<br>
 24. 7 kyu https://www.codewars.com/kata/disemvowel-trolls
+<br>
 25. 7 kyu https://www.codewars.com/kata/isograms
+<br>
 26. 7 kyu https://www.codewars.com/kata/digits-explosion
+<br>
 27. 6 kyu https://www.codewars.com/kata/handshake-problem
+<br>
 28. 6 kyu https://www.codewars.com/kata/duplicate-encoder
+<br>
 29. 6 kyu https://www.codewars.com/kata/n-th-fibonacci
+<br>
 30. 6 kyu https://www.codewars.com/kata/multiples-of-3-or-5
 <br>
 31.Придумайте просто Telegram бота, при создании используйте Node JS, ,библиотеку использующую Telegram API,  express
